@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MobAppDev_Lab4</string>
+    <string name="button">OK</string>
+    <string name="textview">:)</string>
+    <string name="nameuser">Введите свое имя</string>
+    <string name="button1">ОК</string>
+</resources>
